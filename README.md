@@ -8,7 +8,7 @@
 <br />
 
 <p>
-  <em>Kode, pasar, dan teknologi — tiga hal yang saya kerjakan tiap hari.</em>
+  <em>Kode, pasar, dan teknologi — tiga hal yang saya tekuni.</em>
 </p>
 
 <!-- Social / contact -->
@@ -27,22 +27,22 @@
 
 ---
 
-## ⚡ Tentang Saya
+## Tentang Saya
 
 ```yaml
-nama      : Alwan
-fokus     : Full-Stack Development · Crypto · Automation
+nama      : Ahmad Alwan Dzaky
+fokus     : Full-Stack Development · Crypto · Automation · Robotics
 stack     : TypeScript · Python · Next.js · React · Node.js
 minat     : Trading Systems · Web3 · LLM/AI Tooling · DevOps
-prinsip   : Ship it, secure it, dokumentasikan.
+prinsip   : do it what u wnna do.
 status    : Open to collaboration
 ```
 
-Saya senang membangun produk yang **berfungsi nyata** — dari web app modern sampai sistem otomasi dan analisis pasar. Fokus saya: kode bersih, aman, dan terdokumentasi.
+Saya gemar membangun produk yang berfungsi nyata, dari web app modern sampai sistem otomasi dan analisis pasar.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -81,7 +81,7 @@ Saya senang membangun produk yang **berfungsi nyata** — dari web app modern sa
 
 ---
 
-## 📊 Statistik GitHub
+## Statistik GitHub
 
 <div align="center">
 
@@ -104,7 +104,7 @@ Saya senang membangun produk yang **berfungsi nyata** — dari web app modern sa
 
 ---
 
-## 🐍 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -120,7 +120,7 @@ Saya senang membangun produk yang **berfungsi nyata** — dari web app modern sa
 
 <div align="center">
 
-### 💬 "Teknologi terbaik adalah yang menyelesaikan masalah nyata."
+### "Teknologi terbaik adalah yang menyelesaikan masalah."
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=8B949E&center=true&vCenter=true&width=600&lines=Terima+kasih+sudah+mampir+ke+sini.;Mari+kolaborasi+%F0%9F%9A%80" alt="Footer typing" />
 
